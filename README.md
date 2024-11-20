@@ -1,3 +1,2 @@
 # Git_C
-
-NOTES SUR LE PROJET
+######note_sur_projet
